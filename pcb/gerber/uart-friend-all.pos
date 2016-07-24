@@ -1,0 +1,24 @@
+### Module positions - created on Sunday, July 24, 2016 'PMt' 12:33:10 PM ###
+### Printed by Pcbnew version kicad 4.0.0-stable
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       1uF              C_0805             12.0650    15.2400       0.0    top
+C2       1uF              C_0805             21.5900     9.5250       0.0    top
+C3       1uF              C_0805             17.1450    15.2400     180.0    top
+D1       TX               LED-0805           25.4000     6.9850       0.0    top
+D2       RX               LED-0805           25.4000     4.4450       0.0    top
+D3       PWR              LED-0805           25.4000    15.2400       0.0    top
+F1       500mA, 1206      Fuse_SMD1206_Ref    6.9850    10.7950      90.0    top
+P1       USB_OTG          USB_Micro-B         2.5400     8.2550     270.0    top
+Q1       Q_PMOS_GSD       SOT-23             25.4000    10.7950     270.0    top
+R1       75k              R_0805              3.8100    14.6050      90.0    top
+R2       24k              R_0805              6.9850     5.0800      90.0    top
+R3       30k              R_0805              1.2700    14.6050      90.0    top
+R4       10               R_0805             21.5900    12.0650       0.0    top
+R5       220              R_0805             21.5900     6.9850       0.0    top
+R6       220              R_0805             21.5900     4.4450       0.0    top
+R7       220              R_0805             21.5900    15.2400       0.0    top
+U1       AP7365_ADJ_SOT-2 SOT-23-5            6.9850    14.6050       0.0    top
+U2       CY7C65213-SSOP   SSOP-28_5.3x10.2   13.9700     8.2550     270.0    top
+## End

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "swd-pogo-pins")(type "KiCad")(uri "${KIPRJMOD}/swd-pogo-pins.pretty")(options "")(descr ""))
+)

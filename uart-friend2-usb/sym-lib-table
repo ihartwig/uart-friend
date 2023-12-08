@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "uart-friend2-usb")(type "KiCad")(uri "${KIPRJMOD}/uart-friend2-usb.kicad_sym")(options "")(descr ""))
+)

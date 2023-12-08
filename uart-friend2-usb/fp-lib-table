@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "uart-friend2-usb-special")(type "KiCad")(uri "${KIPRJMOD}/uart-friend2-usb-special.pretty")(options "")(descr ""))
+)

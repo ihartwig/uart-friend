@@ -1,4 +1,4 @@
-21677661618959558
+21679368217534380
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90202,12 +90202,19 @@ Tag-Connect TC2030-NL
 6
 6
 uart-friend2-usb-special
-USB_A_Plug_PCB_SparkFun
+USB_A_Plug_PCB_Shorter_Pads
 CARD-EDGE USB A CONNECTOR.
 CARD-EDGE USB A CONNECTOR.
 0
 4
-3
+4
+uart-friend2-usb-special
+USB_A_Plug_PCB_SparkFun_Mod
+CARD-EDGE USB A CONNECTOR.
+CARD-EDGE USB A CONNECTOR.
+0
+4
+4
 uart-friend2-usb-special
 USB_C_Plug_G-Switch_GT-USB-8016A_9P_TopMnt_Horizontal
 

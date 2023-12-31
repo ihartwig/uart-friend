@@ -1,4 +1,4 @@
-21679368217534380
+21681026773644052
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90194,6 +90194,13 @@ varistor
 0
 2
 2
+uart-friend2-usb-special
+MountingHole_1.152mm_JLCPCB_Tooling
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
 uart-friend2-usb-special
 TC2030-NL_SMALL
 Tag-Connect TC2030-NL footprint by carloscuev@gmail.com

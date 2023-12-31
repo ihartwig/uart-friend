@@ -16,3 +16,6 @@
 # MacOS
 .DS_Store
 
+# Zips that should be uploaded to Releases
+*.zip
+

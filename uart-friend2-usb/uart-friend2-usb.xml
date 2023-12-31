@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/ihartwig/repos/uart-friend/uart-friend2-usb/uart-friend2-usb.kicad_sch</source>
+    <date>2023 December 30, Saturday 21:36:43</date>
+    <tool>Eeschema 7.0.2-0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>uart-friend2-usb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="https://gist.github.com/arturo182/a8c4a4b96907cfccf616a1edb59d0389"/>
+        <comment number="3" value="Export BOM for JLC with "/>
+        <comment number="4" value="Export BOM with fields with built-in &quot;bom_csv_grouped_by_value&quot;"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Mfg PN">CL05A105KA5NQNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Mfg PN" value="CL05A105KA5NQNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a020ac85-6aba-4c41-a6c5-23cb81747665</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Mfg PN">CL05B104KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Mfg PN" value="CL05B104KO5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0649d187-fe87-43e4-b539-4b4ad12bac25</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98a0120e-f7af-4864-b220-ed5e082cc38f</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23d55ff2-5697-40b1-b424-c7b2eb98e6ff</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04ffde43-9cc9-46b0-b410-f3e497e7ae62</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cbb32e4-1fdb-445e-907f-edfac1e38cf2</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>378213fd-2fc2-4cbb-a893-fbbdeeed30c5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Mfg PN">CL05A105KA5NQNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Mfg PN" value="CL05A105KA5NQNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bda37b37-e9a4-4375-a067-525d08086ee4</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Mfg PN">CL05B104KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Mfg PN" value="CL05B104KO5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1e4b2d2-ddae-427f-9a0f-3ceb0c93ad28</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1f79c84-ee3c-4ea7-aafb-878b93901157</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23630</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Mfg PN">CL10A225KO8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C23630"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Mfg PN" value="CL10A225KO8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>599ed52d-ca00-4038-8a73-c8fa0e3dad15</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg">Samsung</field>
+        <field name="Mfg PN">CL10A225KO8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Mfg PN" value="CL10A225KO8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d71757b-1eef-47f0-a50a-306e51844628</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1548</field>
+        <field name="Mfg">FH</field>
+        <field name="Mfg PN">0402CG150J500NT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1548"/>
+      <property name="Mfg" value="FH"/>
+      <property name="Mfg PN" value="0402CG150J500NT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>250664fa-ad54-4b12-be14-601a934669f7</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0470499c-f75f-4f0f-b71b-27a93921fbe5</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Mfg PN">CL05B104KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Mfg PN" value="CL05B104KO5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98e1c239-2004-435a-b117-f8ad663dc574</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>RF071M2STR</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <fields>
+        <field name="LCSC">C78744</field>
+        <field name="Mfg">Micro Commercial Co</field>
+        <field name="Mfg PN">MBR0540-TP</field>
+        <field name="Mfg2">Rohm</field>
+        <field name="Mfg2 PN">RF071M2STR</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small_Filled" description="Diode, small symbol, filled shape"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C78744"/>
+      <property name="Mfg" value="Micro Commercial Co"/>
+      <property name="Mfg PN" value="MBR0540-TP"/>
+      <property name="Mfg2" value="Rohm"/>
+      <property name="Mfg2 PN" value="RF071M2STR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3115ac44-d80f-4657-92e3-4726e43ef160</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>RF071M2STR</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <fields>
+        <field name="LCSC">C78744</field>
+        <field name="Mfg">Micro Commercial Co</field>
+        <field name="Mfg PN">MBR0540-TP</field>
+        <field name="Mfg2">Rohm</field>
+        <field name="Mfg2 PN">RF071M2STR</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small_Filled" description="Diode, small symbol, filled shape"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C78744"/>
+      <property name="Mfg" value="Micro Commercial Co"/>
+      <property name="Mfg PN" value="MBR0540-TP"/>
+      <property name="Mfg2" value="Rohm"/>
+      <property name="Mfg2 PN" value="RF071M2STR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70eb9f3f-1b53-4b13-be26-eaacfc6cb39f</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Yellow</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C72038</field>
+        <field name="Mfg">Everlight Elec</field>
+        <field name="Mfg PN">19-213/Y2C-CQ2R2L/3T(CY)</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="LCSC" value="C72038"/>
+      <property name="Mfg" value="Everlight Elec"/>
+      <property name="Mfg PN" value="19-213/Y2C-CQ2R2L/3T(CY)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a96fb3df-cf1c-4e4c-aa5b-9d7755db670e</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Yellow</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f1389da-1631-4b34-85d8-0453bdb5f1b0</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>Green</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C72043</field>
+        <field name="Mfg">Everlight Elec</field>
+        <field name="Mfg PN">19-217/GHC-YR1S2/3T</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="LCSC" value="C72043"/>
+      <property name="Mfg" value="Everlight Elec"/>
+      <property name="Mfg PN" value="19-217/GHC-YR1S2/3T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0122df44-ecaa-4f75-a5c2-6f2aace53419</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>Green</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol, filled shape"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d837ecdf-f44d-4126-bc1f-ae8bbd8ccc48</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C2988369</field>
+        <field name="Mfg">G-Switch</field>
+        <field name="Mfg PN">GT-USB-7010ASV</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="LCSC" value="C2988369"/>
+      <property name="Mfg" value="G-Switch"/>
+      <property name="Mfg PN" value="GT-USB-7010ASV"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3baaf94d-add0-4531-bfc3-a2888e9c3892</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>USB_C_Plug_USB2.0_16P</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="Mfg">GCT</field>
+        <field name="Mfg PN">BC020-05-A-0200-0300-L-G</field>
+      </fields>
+      <libsource lib="uart-friend2-usb" part="USB_Header_NonStd_5P" description="USB 2.0-only Header"/>
+      <property name="Mfg" value="GCT"/>
+      <property name="Mfg PN" value="BC020-05-A-0200-0300-L-G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_description" value="USB 2.0-only Header"/>
+      <property name="ki_keywords" value="usb universal serial bus USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e0e590a-821c-4beb-ade5-b1de6e08e077</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>USB_C_Plug_USB2.0_16P</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="Mfg">GCT</field>
+        <field name="Mfg PN">BC020-05-A-0200-0300-L-G</field>
+      </fields>
+      <libsource lib="uart-friend2-usb" part="USB_Header_NonStd_5P" description="USB 2.0-only Header"/>
+      <property name="Mfg" value="GCT"/>
+      <property name="Mfg PN" value="BC020-05-A-0200-0300-L-G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_description" value="USB 2.0-only Header"/>
+      <property name="ki_keywords" value="usb universal serial bus USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6eb504ae-2539-4e0c-a923-28636cae1d0c</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>USB_C_Plug_USB3.0_9P</value>
+      <footprint>uart-friend2-usb-special:USB_C_Plug_G-Switch_GT-USB-8016A_9P_TopMnt_Horizontal</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="Mfg">G-Switch</field>
+        <field name="Mfg PN">GT-USB-8016A</field>
+      </fields>
+      <libsource lib="uart-friend2-usb" part="USB_C_Plug_USB3.0_9P" description="USB 2.0-only Type-C Plug connector"/>
+      <property name="Mfg" value="G-Switch"/>
+      <property name="Mfg PN" value="GT-USB-8016A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_description" value="USB 2.0-only Type-C Plug connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3281ca2-c374-4fc3-9609-9128bcc522ba</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25092</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF5101TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25092"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF5101TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebc42def-0779-4b2a-bcf4-87d18b3c0088</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6be4d1ce-6209-4eac-877d-329df267bd77</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF1001TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C11702"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF1001TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14fce03f-3eff-4cc4-ab6e-02f840589358</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF1002TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF1002TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7b3778a-dfa3-43cf-b59f-f0ea3fabf3d1</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25092</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF220JTCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25092"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF220JTCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3155093-7a1f-4632-99ea-7424f6d47465</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8a8a963-9941-4df4-ab09-47f5c6fce077</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25917</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF6801TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25917"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF6801TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8efe64c-f073-45b2-9112-12264678ddf1</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF1001TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C11702"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF1001TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e459b00e-ed5a-4590-92fa-3837e2a8daaa</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25905</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF5101TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25905"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF5101TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a534f4ab-6db5-440a-8d95-ce26d7cc120c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d24fc2ba-9bf4-4f50-86c6-237c85466699</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>372270a9-7048-4ba2-bb12-87fa1bab691d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25905</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF5101TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25905"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF5101TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16748e73-99a6-4f9a-a45a-37a96905446a</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>079259b0-577f-48e6-827e-128553cc2ba3</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25905</field>
+        <field name="Mfg">uni-royal</field>
+        <field name="Mfg PN">0402WGF5101TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25905"/>
+      <property name="Mfg" value="uni-royal"/>
+      <property name="Mfg PN" value="0402WGF5101TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fd139ea-faf8-4be7-9589-955e4b6d6d9b</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed2c3d79-04d0-4202-8234-71e9925b50de</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>BOOT</value>
+      <footprint>Button_Switch_SMD:SW_SPST_FSMSM</footprint>
+      <fields>
+        <field name="LCSC">C2888955</field>
+        <field name="Mfg">BZCN</field>
+        <field name="Mfg PN">TSB008A2530A03</field>
+        <field name="Mfg2">Panasonic</field>
+        <field name="Mfg2 PN">FSMSM</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C2888955"/>
+      <property name="Mfg" value="BZCN"/>
+      <property name="Mfg PN" value="TSB008A2530A03"/>
+      <property name="Mfg2" value="Panasonic"/>
+      <property name="Mfg2 PN" value="FSMSM"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f50bcca-6a02-4424-b712-903a677708dd</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>RST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_FSMSM</footprint>
+      <fields>
+        <field name="LCSC">C2888955</field>
+        <field name="Mfg">BZCN</field>
+        <field name="Mfg PN">TSB008A2530A03</field>
+        <field name="Mfg2">Panasonic</field>
+        <field name="Mfg2 PN">FSMSM</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C2888955"/>
+      <property name="Mfg" value="BZCN"/>
+      <property name="Mfg PN" value="TSB008A2530A03"/>
+      <property name="Mfg2" value="Panasonic"/>
+      <property name="Mfg2 PN" value="FSMSM"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83392832-07d6-4ad7-a429-19957c983897</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>RP2040</value>
+      <footprint>Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2040</field>
+        <field name="Mfg">Raspberry Pi</field>
+        <field name="Mfg PN">RP2040</field>
+      </fields>
+      <libsource lib="uart-friend2-usb" part="RP2040_not_hidden" description="A microcontroller by Raspberry Pi"/>
+      <property name="LCSC" value="C2040"/>
+      <property name="Mfg" value="Raspberry Pi"/>
+      <property name="Mfg PN" value="RP2040"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="A microcontroller by Raspberry Pi"/>
+      <property name="ki_keywords" value="RP2040 ARM Cortex-M0+ USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb8baae4-b4bc-45be-842c-de170ea2080b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>W25Q128JVPIQ</value>
+      <footprint>Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2803379</field>
+        <field name="Mfg">Winbond</field>
+        <field name="Mfg PN">W25Q128JVPIQ</field>
+      </fields>
+      <libsource lib="Memory_Flash" part="W25Q32JVZP" description="32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8"/>
+      <property name="LCSC" value="C2803379"/>
+      <property name="Mfg" value="Winbond"/>
+      <property name="Mfg PN" value="W25Q128JVPIQ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8"/>
+      <property name="ki_keywords" value="flash memory SPI"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0edae76f-f7c7-433f-a464-6e568c5b5199</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>WE-TVS-82400102</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://katalog.we-online.de/pbs/datasheet/82400102.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C1975330</field>
+        <field name="Mfg">Wurth</field>
+        <field name="Mfg PN">82400102</field>
+      </fields>
+      <libsource lib="Power_Protection" part="WE-TVS-82400102" description="Low Capacitance TVS Diode Array, 2 Channels, SOT-23-6"/>
+      <property name="LCSC" value="C1975330"/>
+      <property name="Mfg" value="Wurth"/>
+      <property name="Mfg PN" value="82400102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Low Capacitance TVS Diode Array, 2 Channels, SOT-23-6"/>
+      <property name="ki_keywords" value="ESD Protection TVS High-speed USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4640b866-c1f0-4b84-8af9-e18b8684a4f6</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>AP7366-33W5-7</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2005181003_Diodes-Incorporated-AP7366-33W5-7_C526385.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C526385</field>
+        <field name="Mfg">Diodes</field>
+        <field name="Mfg PN">AP7366-33W5-7</field>
+      </fields>
+      <libsource lib="uart-friend2-usb" part="AP7366-33W5-7" description="300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5"/>
+      <property name="LCSC" value="C526385"/>
+      <property name="Mfg" value="Diodes"/>
+      <property name="Mfg PN" value="AP7366-33W5-7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>227a5a54-640c-4912-a1c9-7ad4d91766e8</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>WE-TVS-82400102</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://katalog.we-online.de/pbs/datasheet/82400102.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C1975330</field>
+        <field name="Mfg">Wurth</field>
+        <field name="Mfg PN">82400102</field>
+      </fields>
+      <libsource lib="Power_Protection" part="WE-TVS-82400102" description="Low Capacitance TVS Diode Array, 2 Channels, SOT-23-6"/>
+      <property name="LCSC" value="C1975330"/>
+      <property name="Mfg" value="Wurth"/>
+      <property name="Mfg PN" value="82400102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Low Capacitance TVS Diode Array, 2 Channels, SOT-23-6"/>
+      <property name="ki_keywords" value="ESD Protection TVS High-speed USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddaa7f00-9d76-4287-bc5d-62789b7c7cdb</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>12MHz</value>
+      <footprint>Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm</footprint>
+      <fields>
+        <field name="LCSC">C2149262</field>
+        <field name="Mfg">CTS</field>
+        <field name="Mfg PN">405C35B12M00000</field>
+        <field name="Mfg2">ILSI</field>
+        <field name="Mfg2 PN">IXA20-FBFF12-12.000MHZ</field>
+        <field name="Mfg3">JYJE</field>
+        <field name="Mfg3 PN">5TJ412000NYGBC</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="LCSC" value="C2149262"/>
+      <property name="Mfg" value="CTS"/>
+      <property name="Mfg PN" value="405C35B12M00000"/>
+      <property name="Mfg2" value="ILSI"/>
+      <property name="Mfg2 PN" value="IXA20-FBFF12-12.000MHZ"/>
+      <property name="Mfg3" value="JYJE"/>
+      <property name="Mfg3 PN" value="5TJ412000NYGBC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uart-friend2-usb.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44812751-5efc-49b2-a261-f5ebf229ceb2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small_Filled">
+      <description>Diode, small symbol, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small_Filled</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small_Filled">
+      <description>Light emitting diode, small symbol, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small_Filled</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_Flash" part="W25Q32JVZP">
+      <description>32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>WSON*1EP*6x5mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q32JVZP</field>
+        <field name="Footprint">Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="WE-TVS-82400102">
+      <description>Low Capacitance TVS Diode Array, 2 Channels, SOT-23-6</description>
+      <docs>https://katalog.we-online.de/pbs/datasheet/82400102.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WE-TVS-82400102</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://katalog.we-online.de/pbs/datasheet/82400102.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="uart-friend2-usb" part="AP7366-33W5-7">
+      <description>300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2005181003_Diodes-Incorporated-AP7366-33W5-7_C526385.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP7366-33W5-7</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2005181003_Diodes-Incorporated-AP7366-33W5-7_C526385.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="passive"/>
+        <pin num="5" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="uart-friend2-usb" part="RP2040_not_hidden">
+      <description>A microcontroller by Raspberry Pi</description>
+      <docs>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*7x7mm?P0.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="passive"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="input"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="passive"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="input"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="passive"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="passive"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="passive"/>
+        <pin num="50" name="DVDD" type="passive"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="uart-friend2-usb" part="USB_A_Plug_PCB">
+      <description>USB 2.0-only Type-C Plug connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Plug*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_A_Plug_PCB</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="passive"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="uart-friend2-usb" part="USB_C_Plug_USB3.0_9P">
+      <description>USB 2.0-only Type-C Plug connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Plug*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_C_Plug_USB3.0_9P</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Mfg">G-Switch</field>
+        <field name="Mfg PN">GT-USB-8016A</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A2" name="TX1+" type="bidirectional"/>
+        <pin num="A3" name="TX1-" type="bidirectional"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="VCONN" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B10" name="RX1-" type="bidirectional"/>
+        <pin num="B11" name="RX1+" type="bidirectional"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="uart-friend2-usb" part="USB_Header_NonStd_5P">
+      <description>USB 2.0-only Header</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>PinHeader_1x05_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_Header_NonStd_5P</field>
+        <field name="Footprint">Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="D-" type="bidirectional"/>
+        <pin num="5" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad-7/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad-7/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad-7/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Memory_Flash">
+      <uri>/Applications/KiCad-7/KiCad.app/Contents/SharedSupport/symbols//Memory_Flash.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/Applications/KiCad-7/KiCad.app/Contents/SharedSupport/symbols//Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad-7/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="uart-friend2-usb">
+      <uri>/Users/ihartwig/repos/uart-friend/uart-friend2-usb/uart-friend2-usb.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="10" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U1" pin="44" pinfunction="VREG_IN" pintype="power_in"/>
+      <node ref="U1" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U1" pin="49" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="/ADC1">
+      <node ref="U1" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/ADC2">
+      <node ref="U1" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/J1_CC1">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/J2_CC2">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/LED_GPIO7">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/LED_GPIO8">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/P4_CC">
+      <node ref="P4" pin="A5" pinfunction="CC" pintype="bidirectional"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/SWD">
+      <node ref="U1" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/SWD_CLK">
+      <node ref="U1" pin="24" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="12" name="/SWD_RST">
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/U1_BOOT">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/U1_EEPROM_SCLK">
+      <node ref="U1" pin="52" pinfunction="QSPI_SCLK" pintype="output"/>
+      <node ref="U2" pin="6" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="15" name="/U1_EEPROM_SD0">
+      <node ref="U1" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="DI(IO0)" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/U1_EEPROM_SD1">
+      <node ref="U1" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="DO(IO1)" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/U1_EEPROM_SD3">
+      <node ref="U1" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="IO3" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/U1_EEPROM_SS_L">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="56" pinfunction="QSPI_SS" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="20" name="/U1_RUN">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="21" name="/U1_XIN">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="XIN" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="22" name="/U1_XOUT">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="XOUT" pintype="passive"/>
+    </net>
+    <net code="23" name="/U1_XOUT_R">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/USB0_D_N">
+      <node ref="P2" pin="4" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="P4" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pintype="passive"/>
+    </net>
+    <net code="25" name="/USB0_D_P">
+      <node ref="P2" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="P4" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pintype="passive"/>
+    </net>
+    <net code="26" name="/USB0_N">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/USB0_P">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/USB0_R_N">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pintype="passive"/>
+    </net>
+    <net code="29" name="/USB0_R_P">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="/USB0_SSRX1_N">
+      <node ref="P4" pin="B10" pinfunction="RX1-" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/USB0_SSRX1_P">
+      <node ref="P4" pin="B11" pinfunction="RX1+" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/USB0_SSTX1_N">
+      <node ref="P4" pin="A3" pinfunction="TX1-" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/USB0_SSTX1_P">
+      <node ref="P4" pin="A2" pinfunction="TX1+" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/USB1_D_N">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="P3" pin="4" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pintype="passive"/>
+    </net>
+    <net code="35" name="/USB1_D_P">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="P3" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pintype="passive"/>
+    </net>
+    <net code="36" name="/USB1_N">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/USB1_P">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/USB1_R_N">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="/USB1_R_P">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pintype="passive"/>
+    </net>
+    <net code="40" name="/VBUS0">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P4" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P4" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P4" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P4" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pintype="passive"/>
+    </net>
+    <net code="41" name="/VBUS1">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P3" pin="1" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pintype="passive"/>
+    </net>
+    <net code="42" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="P2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="P2" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="P3" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="P3" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="P4" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="P4" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="P4" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="P4" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="P4" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="TESTEN" pintype="input"/>
+      <node ref="U1" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="EP" pintype="passive"/>
+      <node ref="U3" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(U1-QSPI_SD2)">
+      <node ref="U1" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="VBUS">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="49" name="VDD">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U1" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U1" pin="50" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="50" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(P4-VCONN-PadB5)">
+      <node ref="P4" pin="B5" pinfunction="VCONN" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U1-GPIO2-Pad4)">
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U1-GPIO3-Pad5)">
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="unconnected-(U1-GPIO4-Pad6)">
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U1-GPIO5-Pad7)">
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U1-GPIO6-Pad8)">
+      <node ref="U1" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U1-GPIO9-Pad12)">
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U1-GPIO10-Pad13)">
+      <node ref="U1" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U1-GPIO11-Pad14)">
+      <node ref="U1" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U1-GPIO12-Pad15)">
+      <node ref="U1" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U1-GPIO13-Pad16)">
+      <node ref="U1" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U1-GPIO14-Pad17)">
+      <node ref="U1" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="unconnected-(U1-GPIO15-Pad18)">
+      <node ref="U1" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U1-GPIO16-Pad27)">
+      <node ref="U1" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U1-GPIO17-Pad28)">
+      <node ref="U1" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U1-GPIO18-Pad29)">
+      <node ref="U1" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="unconnected-(U1-GPIO19-Pad30)">
+      <node ref="U1" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U1-GPIO20-Pad31)">
+      <node ref="U1" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="unconnected-(U1-GPIO21-Pad32)">
+      <node ref="U1" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="unconnected-(U1-GPIO22-Pad34)">
+      <node ref="U1" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="unconnected-(U1-GPIO23-Pad35)">
+      <node ref="U1" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="unconnected-(U1-GPIO24-Pad36)">
+      <node ref="U1" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="unconnected-(U1-GPIO25-Pad37)">
+      <node ref="U1" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="unconnected-(U1-GPIO26_ADC0-Pad38)">
+      <node ref="U1" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="unconnected-(U1-GPIO29_ADC3-Pad41)">
+      <node ref="U1" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="unconnected-(U4-NC-Pad4)">
+      <node ref="U4" pin="4" pinfunction="NC" pintype="passive"/>
+    </net>
+  </nets>
+</export>

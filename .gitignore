@@ -6,6 +6,7 @@
 *.bck
 *.kicad_pcb-bak
 *-backups/
+*rescue-backup/
 
 # Netlist files (exported from Eeschema)
 *.net

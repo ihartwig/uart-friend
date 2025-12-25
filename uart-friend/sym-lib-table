@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "uart-friend-rescue")(type "Legacy")(uri "${KIPRJMOD}/uart-friend-rescue.lib")(options "")(descr ""))
+  (lib (name "uart-friend-special")(type "Legacy")(uri "${KIPRJMOD}/uart-friend-special.lib")(options "")(descr ""))
+)

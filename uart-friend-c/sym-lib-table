@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "uart-friend-rescue")(type "Legacy")(uri "${KIPRJMOD}/../uart-friend/uart-friend-rescue.lib")(options "")(descr ""))
   (lib (name "uart-friend-special")(type "Legacy")(uri "${KIPRJMOD}/../uart-friend/uart-friend-special.lib")(options "")(descr ""))
+  (lib (name "uart-friend2-usb")(type "KiCad")(uri "${KIPRJMOD}/../uart-friend2-usb/uart-friend2-usb.kicad_sym")(options "")(descr ""))
 )
